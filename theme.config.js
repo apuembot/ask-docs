@@ -1,6 +1,6 @@
 export default {
   repository: 'https://github.com/apuem/ask',
-  titleSuffix: ' – ask.apuem',
+  titleSuffix: ' – apuem Docs',
   logo: (
     <>
       <span className="mr-2 font-extrabold hidden md:inline">ask.apuem</span>
