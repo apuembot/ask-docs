@@ -1,5 +1,5 @@
 {
-  "name": "askapuem",
+  "name": "nextra",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,8 +12,8 @@
   "license": "MIT",
   "dependencies": {
     "next": "^10.0.8-canary.9",
-    "askapuem": "^0.4.1",
-    "askapuem-theme-docs": "^1.1.2",
+    "nextra": "^0.4.1",
+    "nextra-theme-docs": "^1.1.2",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   },
