@@ -61,5 +61,5 @@ export default {
   nextLinks: true,
   footer: true,
   footerEditOnGitHubLink: true,
-  footerText: <>Powered by apuem.</>,
+  footerText: <>Learn everyday something new 🏔</>,
 }
