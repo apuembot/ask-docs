@@ -61,5 +61,5 @@ export default {
   nextLinks: true,
   footer: true,
   footerEditOnGitHubLink: true,
-  footerText: <>Learn everyday something new 🏔</>,
+  footerText: <>Learn everyday something new!</>,
 }
